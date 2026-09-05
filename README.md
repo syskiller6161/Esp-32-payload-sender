@@ -29,9 +29,10 @@ Send files from ESP32 to any device (PS4, Phone, PC, etc.) over WiFi using SoftA
 
 1. Flash the `payload_sender.bin` file to your ESP32
 2. Connect your phone/PC to the WiFi `ESP32-FileSender`
+3. Connect your ps5/ps4 to the access point (`ESP32-FileSender`)
 3. Open browser and go to → **http://192.168.4.1**
 4. Upload your file
-5. Enter the target IP and Port (or select from connected devices)
+5. Enter the PS IP and Port (or select from connected devices)
 6. Click **Send File**
 
 ---
