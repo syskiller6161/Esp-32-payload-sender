@@ -6,7 +6,7 @@ Send files from ESP32 to any device (PS4, Phone, PC, etc.) over WiFi using SoftA
 
 ## Features
 
-- Create WiFi Access Point (SoftAP)
+- Create WiFi Access Point 
 - Upload any file through web interface
 - Send file to any device connected to the ESP32 via TCP
 - Change WiFi name and password from the web page
